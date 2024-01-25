@@ -1,0 +1,16 @@
+echo "# mylessons" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sabnockk/mylessons.git
+git push -u origin main
+https://twitter.com/Sabnockkk
+niediamond6@gmail.com
+niediamond6@gmail.com
+niediamond6@gmail.comniediamond6@gmail.com
+niediamond6@gmail.comniediamond6@gmail.comniediamond6@gmail.com
+niediamond6@gmail.comniediamond6@gmail.comniediamond6@gmail.comniediamond6@gmail.com
+niediamond6@gmail.comniediamond6@gmail.comniediamond6@gmail.comniediamond6@gmail.comniediamond6@gmail.com
+niediamond6@gmail.com
+niediamond6@gmail.comniediamond6@gmail.comniediamond6@gmail.com
